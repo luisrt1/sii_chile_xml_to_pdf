@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<EnvioDTE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sii.cl/SiiDte" xsi:schemaLocation="http://www.sii.cl/SiiDte EnvioDTE_v10.xsd" version="1.0">
+    <SetDTE ID="SetDoc">
+        <Caratula version="1.0">
+            <RutEmisor>76150978-0</RutEmisor>
+            <RutEnvia>8365075-3</RutEnvia>
+            <RutReceptor>76015281-1</RutReceptor>
+            <FchResol>2014-08-22</FchResol>
+            <NroResol>80</NroResol>
+            <TmstFirmaEnv>2023-06-20T14:47:55</TmstFirmaEnv>
+            <SubTotDTE>
+                <TpoDTE>33</TpoDTE>
+                <NroDTE>1</NroDTE>
+            </SubTotDTE>
+        </Caratula>
+        <DTE xmlns="http://www.sii.cl/SiiDte" version="1.0">
+            <Documento ID="F12770T33">
+            <Encabezado>
+                <IdDoc>
+                    <TipoDTE>33</TipoDTE>
+                    <Folio>12770</Folio>
+                    <FchEmis>2023-06-20</FchEmis>
+                    <FmaPago>2</FmaPago>
+                    <FchVenc>2023-07-20</FchVenc>
+                </IdDoc>
+                <Emisor>
+                    <RUTEmisor>76150978-0</RUTEmisor>
+                    <RznSoc>CATARI CHILE SpA</RznSoc>
+                    <GiroEmis>VENTA Y ARRIENDO DE ANDAMIOS</GiroEmis>
+                    <Telefono>+56 43 257 1070</Telefono>
+                    <CorreoEmisor>facturacion2@catari-chile.cl</CorreoEmisor>
+                    <Acteco>251100</Acteco>
+                    <Acteco>439000</Acteco>
+                    <Acteco>469000</Acteco>
+                    <DirOrigen>Av. Las Industrias Km 504 (Ex Ruta 5 Sur) </DirOrigen>
+                    <CmnaOrigen>Los Ángeles</CmnaOrigen>
+                    <CdgVendedor>Rommy Riquelme</CdgVendedor>
+                </Emisor>
+                <Receptor>
+                    <RUTRecep>76015281-1</RUTRecep>
+                    <RznSocRecep>INGECON MAURICIO CROVETTO V. Y CIA LIMITADA</RznSocRecep>
+                    <GiroRecep>INGENIERÍA Y CONSTRUCCIÓN</GiroRecep>
+                    <Contacto>INGECON MAURICIO CROVETTO V. Y CIA LIMITADA</Contacto>
+            <CorreoRecep>daraya@ingeconsub.cl</CorreoRecep>
+                    <DirRecep>Av La Marina 15</DirRecep>
+                    <CmnaRecep>Coquimbo</CmnaRecep>
+                </Receptor>
+                <Totales>
+                    <MntNeto>550290</MntNeto>
+                    <TasaIVA>19.00</TasaIVA>
+                    <IVA>104555</IVA>
+                    <MntTotal>654845</MntTotal>
+                </Totales>
+            </Encabezado>
+            <Detalle>
+                <NroLinDet>1</NroLinDet>
+                <CdgItem>
+                    <TpoCodigo>INT1</TpoCodigo>
+                    <VlrCodigo>SERVICIO US</VlrCodigo>
+                </CdgItem>
+                <NmbItem>Servicios de Arriendo Andamios Industrial</NmbItem>
+                <DscItem>Servicios de Arriendo Andamios Industrial</DscItem>
+                <QtyItem>1.000000</QtyItem>
+                <UnmdItem>Unid</UnmdItem>
+                <PrcItem>317736.000000</PrcItem>
+                <MontoItem>317736</MontoItem>
+            </Detalle>
+            <Detalle>
+                <NroLinDet>2</NroLinDet>
+                <CdgItem>
+                    <TpoCodigo>INT1</TpoCodigo>
+                    <VlrCodigo>SERVICIO US</VlrCodigo>
+                </CdgItem>
+                <NmbItem>Servicios de Arriendo Andamios Industrial</NmbItem>
+                <DscItem>Servicios de Arriendo Andamios Industrial</DscItem>
+                <QtyItem>1.000000</QtyItem>
+                <UnmdItem>Unid</UnmdItem>
+                <PrcItem>4114.000000</PrcItem>
+                <MontoItem>4114</MontoItem>
+            </Detalle>
+            <Detalle>
+                <NroLinDet>3</NroLinDet>
+                <CdgItem>
+                    <TpoCodigo>INT1</TpoCodigo>
+                    <VlrCodigo>SERVICIO US</VlrCodigo>
+                </CdgItem>
+                <NmbItem>Servicios de Arriendo Andamios Industrial</NmbItem>
+                <DscItem>Servicios de Arriendo Andamios Industrial</DscItem>
+                <QtyItem>1.000000</QtyItem>
+                <UnmdItem>Unid</UnmdItem>
+                <PrcItem>54480.000000</PrcItem>
+                <MontoItem>54480</MontoItem>
+            </Detalle>
+            <Detalle>
+                <NroLinDet>4</NroLinDet>
+                <CdgItem>
+                    <TpoCodigo>INT1</TpoCodigo>
+                    <VlrCodigo>US-HZ-2570</VlrCodigo>
+                </CdgItem>
+                <NmbItem>Brazo Horizontal (2,57 m)</NmbItem>
+                <DscItem>[US-HZ-2570] Brazo Horizontal (2,57 m)</DscItem>
+                <QtyItem>80.000000</QtyItem>
+                <UnmdItem>Unid</UnmdItem>
+                <PrcItem>579.340000</PrcItem>
+                <MontoItem>46347</MontoItem>
+            </Detalle>
+            <Detalle>
+                <NroLinDet>5</NroLinDet>
+                <CdgItem>
+                    <TpoCodigo>INT1</TpoCodigo>
+                    <VlrCodigo>US-PA-AL-2570</VlrCodigo>
+                </CdgItem>
+                <NmbItem>Plataforma Acceso en Aluminio c/ Escalera (2,57 m)</NmbItem>
+                <DscItem>[US-PA-AL-2570] Plataforma Acceso en Aluminio c/ Escalera (2,57 m)</DscItem>
+                <QtyItem>8.000000</QtyItem>
+                <UnmdItem>Unid</UnmdItem>
+                <PrcItem>5124.000000</PrcItem>
+                <MontoItem>40992</MontoItem>
+            </Detalle>
+            <Detalle>
+                <NroLinDet>6</NroLinDet>
+                <CdgItem>
+                    <TpoCodigo>INT1</TpoCodigo>
+                    <VlrCodigo>US-PL-2070</VlrCodigo>
+                </CdgItem>
+                <NmbItem>Plataforma Galvanizada (2,07 m)</NmbItem>
+                <DscItem>[US-PL-2070] Plataforma Galvanizada (2,07 m)</DscItem>
+                <QtyItem>8.000000</QtyItem>
+                <UnmdItem>Unid</UnmdItem>
+                <PrcItem>850.000000</PrcItem>
+                <MontoItem>6800</MontoItem>
+            </Detalle>
+            <Detalle>
+                <NroLinDet>7</NroLinDet>
+                <CdgItem>
+                    <TpoCodigo>INT1</TpoCodigo>
+                    <VlrCodigo>US-PL-2570</VlrCodigo>
+                </CdgItem>
+                <NmbItem>Plataforma Galvanizada (2,57 m)</NmbItem>
+                <DscItem>[US-PL-2570] Plataforma Galvanizada (2,57 m)</DscItem>
+                <QtyItem>8.000000</QtyItem>
+                <UnmdItem>Unid</UnmdItem>
+                <PrcItem>945.000000</PrcItem>
+                <MontoItem>7560</MontoItem>
+            </Detalle>
+            <Detalle>
+                <NroLinDet>8</NroLinDet>
+                <CdgItem>
+                    <TpoCodigo>INT1</TpoCodigo>
+                    <VlrCodigo>US-VT-2000</VlrCodigo>
+                </CdgItem>
+                <NmbItem>Vertical c/ Espiga (2,00 m)</NmbItem>
+                <DscItem>[US-VT-2000] Vertical c/ Espiga (2,00 m)</DscItem>
+                <QtyItem>60.000000</QtyItem>
+                <UnmdItem>Unid</UnmdItem>
+                <PrcItem>655.540000</PrcItem>
+                <MontoItem>39332</MontoItem>
+            </Detalle>
+            <Detalle>
+                <NroLinDet>9</NroLinDet>
+                <CdgItem>
+                    <TpoCodigo>INT1</TpoCodigo>
+                    <VlrCodigo>AA-OT-48</VlrCodigo>
+                </CdgItem>
+                <NmbItem>Abrazadera Ortogonal</NmbItem>
+                <DscItem>[AA-OT-48] Abrazadera Ortogonal</DscItem>
+                <QtyItem>6.000000</QtyItem>
+                <UnmdItem>Unid</UnmdItem>
+                <PrcItem>6098.000000</PrcItem>
+                <DescuentoPct>10.0</DescuentoPct>
+                <DescuentoMonto>3659</DescuentoMonto>
+                <MontoItem>32929</MontoItem>
+            </Detalle>
+            <Referencia>
+                <NroLinRef>1</NroLinRef>
+                <TpoDocRef>801</TpoDocRef>
+                <FolioRef>23109</FolioRef>
+                <FchRef>2023-04-05</FchRef>
+            </Referencia>
+            <Referencia>
+                <NroLinRef>2</NroLinRef>
+                <TpoDocRef>801</TpoDocRef>
+                <FolioRef>23103</FolioRef>
+                <FchRef>2023-03-27</FchRef>
+            </Referencia>
+            <Referencia>
+                <NroLinRef>3</NroLinRef>
+                <TpoDocRef>801</TpoDocRef>
+                <FolioRef>23104</FolioRef>
+                <FchRef>2023-03-28</FchRef>
+            </Referencia>
+            <TED version="1.0">
+            <DD>
+                <RE>76150978-0</RE>
+                <TD>33</TD>
+                <F>12770</F>
+                <FE>2023-06-20</FE>
+                <RR>76015281-1</RR>
+                <RSR>INGECON MAURICIO CROVETTO V. Y CIA LIMIT</RSR>
+                <MNT>654845</MNT>
+                <IT1>Servicios de Arriendo Andamios Industria</IT1>
+                <CAF version="1.0">
+                    <DA>
+                        <RE>76150978-0</RE>
+                        <RS>CATARI CHILE SPA</RS>
+                        <TD>33</TD>
+                        <RNG>
+                            <D>12401</D>
+                            <H>12900</H>
+                        </RNG>
+                        <FA>2023-05-04</FA>
+                        <RSAPK>
+                            <M>vyHOB89B0huHvBjm8YE6etGJ7RlbimHdsvWw7MNrSZ8RYhxZ92Ka99Zc/VAmcN6epLcZPLZeMDNcE+8MEB/ufQ==</M>
+                            <E>Aw==</E>
+                        </RSAPK>
+                        <IDK>300</IDK>
+                    </DA>
+                    <FRMA algoritmo="SHA1withRSA">Qiuheyq6PuH11N96UvgDeaYoBfvJlz8YDrnXUxxsrtvqnznh+3YQsohP5KoETx9sNNJksAiL8Tk+oS472x7iJg==</FRMA>
+                </CAF>
+                <TSTED>2023-06-20T13:27:07</TSTED>
+            </DD>
+                <FRMT algoritmo="SHA1withRSA">M6gbd4Q0D2Aox5Rwif9xXUleeWn49NeEtgheHVUW/PvXFpVVt/HVM6oF5kgcVkaHnIt+x6HwL4kWfXhTpLTYxA==</FRMT>
+            </TED><TmstFirma>2023-06-20T13:27:07</TmstFirma>
+            </Documento>
+        <Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo xmlns="http://www.w3.org/2000/09/xmldsig#"><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI="#F12770T33"><Transforms><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>pz2ck2WL9ZwraATmxF5uUtuJzCs=</DigestValue></Reference></SignedInfo><SignatureValue>L40GPfjOYfWQUCg3e9JOmJ1dSQm8zVWs0N5PSzO+FtJe3Z9P2lFhP7XTWEqoYOkLB7ehrORF3fEMfWqva6ihzDY2q2qBCxIOgzPhTK7XpDk1nuGXteY9exBi01PlMga4RzpFFWvIlUVpIwO845vKv9W/iztME4PzYHoy0361+W8=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>mMr2+MH+4nkLWsWLFOHF8ylFSUjd5NFTTZVxQKmM4ikgrsXtpGxRUFKy6loWr/GthD6KJeEkQAmKa8gCNuk4GQeHH3yKT9eDK9E+mpDKiYX9ceshKMAbW4hCb7uLtUWWIHRIpnYT7L8edky4R+FktyBEzMLTxuPxJpkLhl7HvkE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>
+MIIGMDCCBRigAwIBAgIKe3kNIwAAABOy0zANBgkqhkiG9w0BAQUFADCB0jELMAkG
+A1UEBhMCQ0wxHTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQH
+EwhTYW50aWFnbzEUMBIGA1UEChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9y
+aWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQDEydFLUNFUlRDSElMRSBDQSBGSVJN
+QSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEWGHNjbGllbnRlc0Bl
+LWNlcnRjaGlsZS5jbDAeFw0yMTAxMjcxODQ4NDVaFw0yNDAxMjcxODQ4NDVaMIGx
+MQswCQYDVQQGEwJDTDEQMA4GA1UECAwHQklPQsONTzEQMA4GA1UEBwwHQklPQsON
+TzEZMBcGA1UEChMQQ0FUQVJJIENISUxFIFNQQTEKMAgGA1UECwwBKjEqMCgGA1UE
+AxMhV0FMVEVSIEFNRVJJQ08gTEFOR0VORUdHRVIgVE9MT1pBMSswKQYJKoZIhvcN
+AQkBFhxIT1JTVC5CRVJORFRAQ0FUQVJJLUNISUxFLkNMMIGfMA0GCSqGSIb3DQEB
+AQUAA4GNADCBiQKBgQCYyvb4wf7ieQtaxYsU4cXzKUVJSN3k0VNNlXFAqYziKSCu
+xe2kbFFQUrLqWhav8a2EPool4SRACYpryAI26TgZB4cffIpP14Mr0T6akMqJhf1x
+6yEowBtbiEJvu4u1RZYgdEimdhPsvx52TLhH4WS3IETMwtPG4/EmmQuGXse+QQID
+AQABo4ICqTCCAqUwggFPBgNVHSAEggFGMIIBQjCCAT4GCCsGAQQBw1IFMIIBMDAt
+BggrBgEFBQcCARYhaHR0cDovL3d3dy5lLWNlcnRjaGlsZS5jbC9DUFMuaHRtMIH+
+BggrBgEFBQcCAjCB8R6B7gBFAGwAIAByAGUAcwBwAG8AbgBkAGUAcgAgAGUAcwB0
+AGUAIABmAG8AcgBtAHUAbABhAHIAaQBvACAAZQBzACAAdQBuACAAcgBlAHEAdQBp
+AHMAaQB0AG8AIABpAG4AZABpAHMAcABlAG4AcwBhAGIAbABlACAAcABhAHIAYQAg
+AGQAYQByACAAaQBuAGkAYwBpAG8AIABhAGwAIABwAHIAbwBjAGUAcwBvACAAZABl
+ACAAYwBlAHIAdABpAGYAaQBjAGEAYwBpAPMAbgAuACAAUABvAHMAdABlAHIAaQBv
+AHIAbQBlAG4AdABlACwwHQYDVR0OBBYEFIsgfOcS59/t3uI70umQxCg8Mz3mMAsG
+A1UdDwQEAwIE8DAjBgNVHREEHDAaoBgGCCsGAQQBwQEBoAwWCjA4MzY1MDc1LTMw
+HwYDVR0jBBgwFoAUeOE+n9ISs3o8jc0wDlOzQykHs1UwPgYDVR0fBDcwNTAzoDGg
+L4YtaHR0cDovL2NybC5lLWNlcnRjaGlsZS5jbC9lY2VydGNoaWxlY2FGRVMuY3Js
+MDoGCCsGAQUFBwEBBC4wLDAqBggrBgEFBQcwAYYeaHR0cDovL29jc3AuZWNlcnRj
+aGlsZS5jbC9vY3NwMD0GCSsGAQQBgjcVBwQwMC4GJisGAQQBgjcVCILcgy+Fk4xm
+hdWdF4Li3CeB7+w8YYHLnhSGqIJYAgFkAgEEMCMGA1UdEgQcMBqgGAYIKwYBBAHB
+AQKgDBYKOTY5MjgxODAtNTANBgkqhkiG9w0BAQUFAAOCAQEAUPgIYXPb+qJR13dX
+T37LynLGYkhOj78BITD/9CFbjHIdRYDDLCKG51Zc6YPjUHsd/K4nQuKy4CP4t17O
+NWAqM7PiHUvaxICRGbI7KVgx7UMxRovnrjNT7SxYfj/GYXM1y18F5JgofaXknYuE
++RqknaQNGXU/9VDRsHS0yc0gDUEm8ZcEWTPJeJzBlDgZQVZ32a9FGt6uAFa0akMK
+RvH0zFABzw/Y7tLLmIq37ujttHKLwJASSYDosZNezvEUXwI8IcbJTjLy2kpY1W0U
+vfen9yTr7aiPXdIK3pwRmYb7445LR3mYZI4bJw/Pk3ByxSYUcbv8S2hD5RmgXYxe
+k4jMHw==</X509Certificate></X509Data></KeyInfo></Signature></DTE>
+    </SetDTE>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo xmlns="http://www.w3.org/2000/09/xmldsig#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI="#SetDoc"><Transforms><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>V0EPxzl17kLcqZF0Tp/TvYKBsJc=</DigestValue></Reference></SignedInfo><SignatureValue>YmqWhpFCFaaEOVVCUl4WE/qM1tLmRVIzzKpacuAzB+2utGUjY++/o8Ego3iAKoYScIyP2iV4+ekZn4mZQBICjIjX6+tYcANVbR5oRFLDvT5M9Gno5Iaq88HiY4ETLXw+ngeGRgi8RWFTZdgpOzi7+5so1sr9j8h8mRcpZhOjxqg=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>mMr2+MH+4nkLWsWLFOHF8ylFSUjd5NFTTZVxQKmM4ikgrsXtpGxRUFKy6loWr/GthD6KJeEkQAmKa8gCNuk4GQeHH3yKT9eDK9E+mpDKiYX9ceshKMAbW4hCb7uLtUWWIHRIpnYT7L8edky4R+FktyBEzMLTxuPxJpkLhl7HvkE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>
+MIIGMDCCBRigAwIBAgIKe3kNIwAAABOy0zANBgkqhkiG9w0BAQUFADCB0jELMAkG
+A1UEBhMCQ0wxHTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQH
+EwhTYW50aWFnbzEUMBIGA1UEChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9y
+aWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQDEydFLUNFUlRDSElMRSBDQSBGSVJN
+QSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEWGHNjbGllbnRlc0Bl
+LWNlcnRjaGlsZS5jbDAeFw0yMTAxMjcxODQ4NDVaFw0yNDAxMjcxODQ4NDVaMIGx
+MQswCQYDVQQGEwJDTDEQMA4GA1UECAwHQklPQsONTzEQMA4GA1UEBwwHQklPQsON
+TzEZMBcGA1UEChMQQ0FUQVJJIENISUxFIFNQQTEKMAgGA1UECwwBKjEqMCgGA1UE
+AxMhV0FMVEVSIEFNRVJJQ08gTEFOR0VORUdHRVIgVE9MT1pBMSswKQYJKoZIhvcN
+AQkBFhxIT1JTVC5CRVJORFRAQ0FUQVJJLUNISUxFLkNMMIGfMA0GCSqGSIb3DQEB
+AQUAA4GNADCBiQKBgQCYyvb4wf7ieQtaxYsU4cXzKUVJSN3k0VNNlXFAqYziKSCu
+xe2kbFFQUrLqWhav8a2EPool4SRACYpryAI26TgZB4cffIpP14Mr0T6akMqJhf1x
+6yEowBtbiEJvu4u1RZYgdEimdhPsvx52TLhH4WS3IETMwtPG4/EmmQuGXse+QQID
+AQABo4ICqTCCAqUwggFPBgNVHSAEggFGMIIBQjCCAT4GCCsGAQQBw1IFMIIBMDAt
+BggrBgEFBQcCARYhaHR0cDovL3d3dy5lLWNlcnRjaGlsZS5jbC9DUFMuaHRtMIH+
+BggrBgEFBQcCAjCB8R6B7gBFAGwAIAByAGUAcwBwAG8AbgBkAGUAcgAgAGUAcwB0
+AGUAIABmAG8AcgBtAHUAbABhAHIAaQBvACAAZQBzACAAdQBuACAAcgBlAHEAdQBp
+AHMAaQB0AG8AIABpAG4AZABpAHMAcABlAG4AcwBhAGIAbABlACAAcABhAHIAYQAg
+AGQAYQByACAAaQBuAGkAYwBpAG8AIABhAGwAIABwAHIAbwBjAGUAcwBvACAAZABl
+ACAAYwBlAHIAdABpAGYAaQBjAGEAYwBpAPMAbgAuACAAUABvAHMAdABlAHIAaQBv
+AHIAbQBlAG4AdABlACwwHQYDVR0OBBYEFIsgfOcS59/t3uI70umQxCg8Mz3mMAsG
+A1UdDwQEAwIE8DAjBgNVHREEHDAaoBgGCCsGAQQBwQEBoAwWCjA4MzY1MDc1LTMw
+HwYDVR0jBBgwFoAUeOE+n9ISs3o8jc0wDlOzQykHs1UwPgYDVR0fBDcwNTAzoDGg
+L4YtaHR0cDovL2NybC5lLWNlcnRjaGlsZS5jbC9lY2VydGNoaWxlY2FGRVMuY3Js
+MDoGCCsGAQUFBwEBBC4wLDAqBggrBgEFBQcwAYYeaHR0cDovL29jc3AuZWNlcnRj
+aGlsZS5jbC9vY3NwMD0GCSsGAQQBgjcVBwQwMC4GJisGAQQBgjcVCILcgy+Fk4xm
+hdWdF4Li3CeB7+w8YYHLnhSGqIJYAgFkAgEEMCMGA1UdEgQcMBqgGAYIKwYBBAHB
+AQKgDBYKOTY5MjgxODAtNTANBgkqhkiG9w0BAQUFAAOCAQEAUPgIYXPb+qJR13dX
+T37LynLGYkhOj78BITD/9CFbjHIdRYDDLCKG51Zc6YPjUHsd/K4nQuKy4CP4t17O
+NWAqM7PiHUvaxICRGbI7KVgx7UMxRovnrjNT7SxYfj/GYXM1y18F5JgofaXknYuE
++RqknaQNGXU/9VDRsHS0yc0gDUEm8ZcEWTPJeJzBlDgZQVZ32a9FGt6uAFa0akMK
+RvH0zFABzw/Y7tLLmIq37ujttHKLwJASSYDosZNezvEUXwI8IcbJTjLy2kpY1W0U
+vfen9yTr7aiPXdIK3pwRmYb7445LR3mYZI4bJw/Pk3ByxSYUcbv8S2hD5RmgXYxe
+k4jMHw==</X509Certificate></X509Data></KeyInfo></Signature></EnvioDTE>
